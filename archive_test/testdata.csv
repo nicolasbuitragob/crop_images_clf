@@ -1,0 +1,52 @@
+,testpath,crop,croplabel
+0,/kaggle/input/testssss/test_crop_image/wheat-field03.jpg,wheat,4
+1,/kaggle/input/testssss/test_crop_image/jute-field.jpg,jute,0
+2,/kaggle/input/testssss/test_crop_image/wheat-crop.jpg,wheat,4
+3,/kaggle/input/testssss/test_crop_image/maize000.jfif,maize,1
+4,/kaggle/input/testssss/test_crop_image/rice-fields-204128_1280.jpg,rice,2
+5,/kaggle/input/testssss/test_crop_image/rice8122f869e3f.jpg,rice,2
+6,/kaggle/input/testssss/test_crop_image/rice-5174887_1280.jpg,rice,2
+7,/kaggle/input/testssss/test_crop_image/maize-Field-Corn.jpg,maize,1
+8,/kaggle/input/testssss/test_crop_image/wheat-field.jfif,wheat,4
+9,/kaggle/input/testssss/test_crop_image/wheat-field-artificial-irrigation-rural-electrification-to-harvest-166395991.jpg,wheat,4
+10,/kaggle/input/testssss/test_crop_image/maize02.jfif,maize,1
+11,/kaggle/input/testssss/test_crop_image/wheatarialview.jfif,wheat,4
+12,/kaggle/input/testssss/test_crop_image/wheat-field01.jpg,wheat,4
+13,/kaggle/input/testssss/test_crop_image/wheat-field-395545_960_720.jpg,wheat,4
+14,/kaggle/input/testssss/test_crop_image/jute002.jpg,jute,0
+15,/kaggle/input/testssss/test_crop_image/maize_fieldmexico.jpeg,maize,1
+16,/kaggle/input/testssss/test_crop_image/sugarcane-farm-in-the-mountain-countryside-of-thailand.jpg,sugarcane,3
+17,/kaggle/input/testssss/test_crop_image/wheatss.jpg,wheat,4
+18,/kaggle/input/testssss/test_crop_image/sugarcanefield.jpg,sugarcane,3
+19,/kaggle/input/testssss/test_crop_image/jutefield.jpg,jute,0
+20,/kaggle/input/testssss/test_crop_image/maize plant set.jpg,maize,1
+21,/kaggle/input/testssss/test_crop_image/jute003.jpg,jute,0
+22,/kaggle/input/testssss/test_crop_image/sugarcaneplants.jpg,sugarcane,3
+23,/kaggle/input/testssss/test_crop_image/sugarcaneplant.jpg,sugarcane,3
+24,/kaggle/input/testssss/test_crop_image/maizecornleaves.jfif,maize,1
+25,/kaggle/input/testssss/test_crop_image/sugarcane fields.jpg,sugarcane,3
+26,/kaggle/input/testssss/test_crop_image/wheatcrop01.jpg,wheat,4
+27,/kaggle/input/testssss/test_crop_image/maize00corn-fields.jpg,maize,1
+28,/kaggle/input/testssss/test_crop_image/maize corn set2.jpg,maize,1
+29,/kaggle/input/testssss/test_crop_image/rice-field01.jpg,rice,2
+30,/kaggle/input/testssss/test_crop_image/maize images.jfif,maize,1
+31,/kaggle/input/testssss/test_crop_image/wheatcropfield04.jpg,wheat,4
+32,/kaggle/input/testssss/test_crop_image/sugarcanefield02.jpg,sugarcane,3
+33,/kaggle/input/testssss/test_crop_image/juteplant.jpg,jute,0
+34,/kaggle/input/testssss/test_crop_image/maize-field01.jpg,maize,1
+35,/kaggle/input/testssss/test_crop_image/wheatcropfield.jpg,wheat,4
+36,/kaggle/input/testssss/test_crop_image/maize-field.jpg,maize,1
+37,/kaggle/input/testssss/test_crop_image/juteplants.jpg,jute,0
+38,/kaggle/input/testssss/test_crop_image/sugarcane-field.jpg,sugarcane,3
+39,/kaggle/input/testssss/test_crop_image/wheat.jpg,wheat,4
+40,/kaggle/input/testssss/test_crop_image/juteleaves.jpg,jute,0
+41,/kaggle/input/testssss/test_crop_image/rice-4967164_1280.jpg,rice,2
+42,/kaggle/input/testssss/test_crop_image/sugarcane-field8.jpg,sugarcane,3
+43,/kaggle/input/testssss/test_crop_image/wheatcrops.jpg,wheat,4
+44,/kaggle/input/testssss/test_crop_image/juteimg.jpg,jute,0
+45,/kaggle/input/testssss/test_crop_image/wheatarial02.jpg,wheat,4
+46,/kaggle/input/testssss/test_crop_image/jute03.jpg,jute,0
+47,/kaggle/input/testssss/test_crop_image/rice-828540_1280.jpg,rice,2
+48,/kaggle/input/testssss/test_crop_image/rice-field02.jpg,rice,2
+49,/kaggle/input/testssss/test_crop_image/wheat-field02.jpg,wheat,4
+50,/kaggle/input/testssss/test_crop_image/rice-field.jpg,rice,2
